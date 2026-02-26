@@ -7,7 +7,7 @@
 std::string input;
 
 std::string program = "LazyCalc";
-int release = 0;
+int patch = 0;
 int major = 0;
 int minor = 1;
 std::string license = "MIT";
@@ -34,7 +34,7 @@ void elements::interactive(){
         if(input == "B" || input == "b"){
 		basic();
         } else if(input == "A" || input == "a"){
-                std::cout << " " << program << " v" << release << "." << major << "." << minor << std::endl;
+                std::cout << " " << program << " v" << major << "." << minor << "." << patch << std::endl;
 		std::cout << " CLI-based calculator for UNIX-like system (from Indonesia <3)." << std::endl;
                 std::cout << " Copyright (c) 2026 Rhasl Husein Ascardio Anugrah" << std::endl;
                 std::cout << " License: MIT" << std::endl;

@@ -5,7 +5,7 @@
 extern std::string input;
 
 extern std::string program;
-extern int release;
+extern int patch;
 extern int major;
 extern int minor;
 extern std::string license;
