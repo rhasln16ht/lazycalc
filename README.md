@@ -7,11 +7,10 @@ A simple and lightweight terminal calculator written in C++.
 - Minimal and fast.
 
 ## Changelogs
-## [0.1.0] - 2026-02-26
 
+### [0.1.0] - 2026-02-26
 ### Added
 - Nothing LOL :D
-
 ### Deprecated
 - Interactive CLI mode will be removed in v1.0.0
 - "Q" as operator to exit, will be removed in v0.2.0
