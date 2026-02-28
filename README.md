@@ -1,11 +1,11 @@
 # LazyCalc
-A simple and lightweight terminal calculator written in C++.
+A minimal, fast, and easy-to-use command line calculator built with modern C++.
 
 ## Features 
 - Interactive CLI  mode.
 - Basic arithmetic operations.
 - Minimal and fast.
-- Supported Windows, macOS, and other UNIX-like systems (including Android via Termux).
+- Only for UNIX-like system (such as GNU/Linux) and Android via [Termux](https://f-droid.org/id/packages/com.termux/).
 
 ##  Build & Run
 ```bash
